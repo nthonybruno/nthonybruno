@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey, I'm Anthony 👋
 
+- 📫 Let's [connect](https://www.linkedin.com/in/anthonybrunonj)
+- I'm currently working with APIs, Web Scraping, DigitialOCean Twilio, on my new project [FunEmployed](https://www.funemployed.net)
 <!--
 **nthonybruno/nthonybruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

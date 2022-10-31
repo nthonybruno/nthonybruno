@@ -1,8 +1,9 @@
 ### Hey, I'm Anthony 👋
 
-- 📫 Let's [connect](https://www.linkedin.com/in/anthonybrunonj)
-- 🌱 I'm working on my new project [FunEmploy](https://github.com/nthonybruno/funemploy)
+- 📫 Let's [connect](https://www.linkedin.com/in/nthonybruno)
+
 <!--
+- 🌱 I'm working on my new project [FunEmploy](https://github.com/nthonybruno/funemploy)
 **nthonybruno/nthonybruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

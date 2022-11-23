@@ -1,3 +1,4 @@
+[![Skillset](https://github-readme-stats.vercel.app/api/top-langs/?username=nthonybruno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ### Hey, I'm Anthony 👋
 
